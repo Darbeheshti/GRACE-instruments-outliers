@@ -8,6 +8,6 @@ case of GRACE gravity field recovery, because the main observation is range rate
 ![okresAOC_D0rl03ult_030800](https://github.com/Darbeheshti/GRACE-instruments-outliers/assets/50994293/5d1bc7ab-a353-471c-8f4b-6d2f45d3f6df)
 
 The full time series of GRACE AIUB-RL03 gravity solution based on outleir detection in this repository is available and can be accessed from the International Center for Global Earth Models website:
-Darbeheshti, N, Lasser, M, Meyer, U, Arnold, D, and Jaeggi, A 2023 AIUB-G3P GRACE monthly gravity field solutions. DOI: https://doi.org/10.5880/ICGEM.2023.001 
+Darbeheshti, N, Lasser, M, Meyer, U, Arnold, D, and Jaeggi, A 2023 AIUB-G3P GRACE monthly gravity field solutions. DOI: https://doi.org/10.5880/ICGEM.2023.001.
 This paper explains the approach in more detail.
 https://doi.org/10.5194/essd-2023-72
