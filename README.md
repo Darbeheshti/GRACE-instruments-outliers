@@ -9,3 +9,5 @@ case of GRACE gravity field recovery, because the main observation is range rate
 
 The full time series of GRACE AIUB-RL03 gravity solution based on outleir detection in this repository is available and can be accessed from the International Center for Global Earth Models website:
 Darbeheshti, N, Lasser, M, Meyer, U, Arnold, D, and Jaeggi, A 2023 AIUB-G3P GRACE monthly gravity field solutions. DOI: https://doi.org/10.5880/ICGEM.2023.001 
+This paper explains the approach in more detail.
+https://doi.org/10.5194/essd-2023-72
